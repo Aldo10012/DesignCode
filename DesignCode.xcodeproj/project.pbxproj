@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		636C90F125CB58A400642027 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636C90F025CB58A400642027 /* MenuView.swift */; };
+		6389708E25CDED09007C418A /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6389708D25CDED09007C418A /* UpdateList.swift */; };
 		63D4066B25CCA1F6008552E7 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D4066A25CCA1F6008552E7 /* Home.swift */; };
 		63D4066E25CCB055008552E7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63D4066D25CCB055008552E7 /* HomeView.swift */; };
 		63E1E51325C9FC79005AFF65 /* DesignCodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E1E51225C9FC79005AFF65 /* DesignCodeApp.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		636C90F025CB58A400642027 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		6389708D25CDED09007C418A /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		63D4066A25CCA1F6008552E7 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		63D4066D25CCB055008552E7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		63E1E50F25C9FC79005AFF65 /* DesignCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,6 +65,7 @@
 				63D4066A25CCA1F6008552E7 /* Home.swift */,
 				63D4066D25CCB055008552E7 /* HomeView.swift */,
 				636C90F025CB58A400642027 /* MenuView.swift */,
+				6389708D25CDED09007C418A /* UpdateList.swift */,
 				63E1E51625C9FC7B005AFF65 /* Assets.xcassets */,
 				63E1E51B25C9FC7B005AFF65 /* Info.plist */,
 				63E1E51825C9FC7B005AFF65 /* Preview Content */,
@@ -149,6 +152,7 @@
 			files = (
 				63E1E51525C9FC79005AFF65 /* ContentView.swift in Sources */,
 				636C90F125CB58A400642027 /* MenuView.swift in Sources */,
+				6389708E25CDED09007C418A /* UpdateList.swift in Sources */,
 				63D4066B25CCA1F6008552E7 /* Home.swift in Sources */,
 				63D4066E25CCB055008552E7 /* HomeView.swift in Sources */,
 				63E1E51325C9FC79005AFF65 /* DesignCodeApp.swift in Sources */,
